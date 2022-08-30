@@ -1,0 +1,1 @@
+This project is introducing us to Ubuntu and how it works as a virtual machine
